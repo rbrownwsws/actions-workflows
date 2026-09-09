@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/rbrownwsws/actions-workflows/compare/v1.0.1...v1.0.2) (2026-09-09)
+
+
+### Bug Fixes
+
+* **deps:** update zizmorcore/zizmor-action action to v0.6.4 ([#6](https://github.com/rbrownwsws/actions-workflows/issues/6)) ([3d9d0e0](https://github.com/rbrownwsws/actions-workflows/commit/3d9d0e0cd3d2c5c983c692eda71d58ad3a677f52))
+
 ## [1.0.1](https://github.com/rbrownwsws/actions-workflows/compare/v1.0.0...v1.0.1) (2026-08-31)
 
 
