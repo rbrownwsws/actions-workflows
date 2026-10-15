@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/rbrownwsws/actions-workflows/compare/v1.0.2...v1.0.3) (2026-10-15)
+
+
+### Bug Fixes
+
+* **deps:** update actions/create-github-app-token action to v3.3.0 ([#8](https://github.com/rbrownwsws/actions-workflows/issues/8)) ([b52f68a](https://github.com/rbrownwsws/actions-workflows/commit/b52f68a343efe31db6802b9a759ec0eb5d248c21))
+* **deps:** update zizmorcore/zizmor-action action to v0.7.0 ([#9](https://github.com/rbrownwsws/actions-workflows/issues/9)) ([5d9a8a3](https://github.com/rbrownwsws/actions-workflows/commit/5d9a8a31e8ee15c6dbfcb30b8369d1f49e5e6768))
+
 ## [1.0.2](https://github.com/rbrownwsws/actions-workflows/compare/v1.0.1...v1.0.2) (2026-09-09)
 
 
